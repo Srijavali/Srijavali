@@ -1,4 +1,4 @@
-# Hi, I'm Sri Javali 👋
+# Hi, I'm Kotha Sri javali 👋
 
 Applied AI/ML Engineer focused on:
 - Vision AI
