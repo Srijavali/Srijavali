@@ -1,92 +1,185 @@
-# Hi, I'm Kotha Sri javali 👋
+# Hi, I'm Sri Javali 👋
 
-Applied AI/ML Engineer focused on:
-- Vision AI
-- LLM Systems
-- RAG Pipelines
-- AI for Social Impact
-- Research-driven Intelligent Systems
+### AI/ML Researcher | Research Intern @ IIIT Hyderabad
 
-Currently exploring:
-- Agentic AI
-- StreamRAG
-- Vision Transformers
-- Prompt Injection & LLM Security
-- Explainable AI Systems
+I build production-oriented AI systems focused on **Computer Vision**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **FastAPI backends**, and **AI Safety**.
+
+I'm passionate about turning cutting-edge AI research into practical applications that solve real-world problems in healthcare, education, and intelligent automation.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Building
+
+- 🤖 AI Agents & Agentic Workflows
+- 🛡️ LLM Security & Prompt Injection Defense
+- 📚 Retrieval-Augmented Generation (RAG) Systems
+- 👁️ Vision AI using Vision Transformers & YOLO
+- ⚡ FastAPI-based AI Backend Services
+- 🧠 Explainable & Trustworthy AI Systems
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-Python • Java • C • JavaScript
 
-### AI/ML
-PyTorch • TensorFlow • Vision Transformers • YOLO • CNNs • RAG • LLMs
+- Python
+- Java
+- C
+- JavaScript
 
-### Tools & Frameworks
-React • Streamlit • FastAPI • LangChain • Git • MediaPipe
+### AI / Machine Learning
+
+- PyTorch
+- TensorFlow
+- Hugging Face Transformers
+- Vision Transformers (ViT)
+- YOLO
+- CNNs
+- Retrieval-Augmented Generation (RAG)
+- LLMs
+
+### Backend
+
+- FastAPI
+- REST APIs
+- Streamlit
+
+### Frameworks & Tools
+
+- LangChain
+- React
+- MediaPipe
+- Git
+- GitHub
+
+---
+
+# 🔬 Research
+
+## Research Intern — IIIT Hyderabad
+
+Worked on research-driven AI systems involving:
+
+- Computer Vision
+- Deep Learning
+- Vision Transformers
+- AI Security
+- Intelligent System Design
+
+Current research interests include:
+
+- LLM Guardrails
+- Prompt Injection Defense
+- Explainable AI
+- AI Safety
+- Agentic AI
+- Retrieval-Augmented Generation
 
 ---
 
 # 🚀 Featured Projects
 
-## JoyVerse — AI-Powered Learning System for Dyslexic Children
+---
 
-AI-driven cognitive assessment platform using Vision Transformers and MediaPipe facial mesh analysis to evaluate engagement, emotional feedback, and behavioral patterns in dyslexic children through gamified learning tasks.
+# 🧠 JoyVerse
+### AI-Powered Cognitive Learning Platform for Dyslexic Children
 
-### Key Features
-- Vision Transformer-based engagement analysis
-- MediaPipe Face Mesh emotion tracking
-- Parent & Therapist dashboards
-- Gamified cognitive assessment tasks
-- Behavioral analytics & therapy workflow integration
+An intelligent educational platform that leverages Vision Transformers and MediaPipe to analyze student engagement, emotional feedback, and behavioral patterns during gamified learning activities.
+
+### Highlights
+
+- Vision Transformer-based engagement detection
+- MediaPipe Face Mesh emotion analysis
+- Parent dashboard
+- Therapist dashboard
+- Behavioral analytics
+- AI-assisted cognitive assessment
 
 ### Tech Stack
-React • Vision Transformers • MediaPipe • FastAPI
 
-## Technical Walkthrough
-This walkthrough demonstrates the AI pipeline, therapist dashboard, behavioral analytics workflow, and engagement analysis system.
-- Full Project Demonstration:
+- React
+- FastAPI
+- Vision Transformers
+- MediaPipe
+
+🎥 **Project Demo**
+
 https://www.youtube.com/watch?v=ffRGONYetUM
 
 ---
 
-## Leaf Disease Detection & Advisory System
+# 🌿 Plant Disease Detection & Advisory System
 
-AI-powered multilingual agricultural advisory system integrating Vision Transformers, StreamRAG, ICAR/IPM knowledge retrieval, and soil health parameters for intelligent disease diagnosis and treatment recommendations.
+An AI-powered multilingual agricultural advisory platform combining Vision Transformers with Retrieval-Augmented Generation (RAG) to provide disease diagnosis and treatment recommendations.
 
-### Key Features
-- Vision Transformer disease classification
-- ~97.6% classification accuracy
-- StreamRAG-powered agricultural retrieval
-- Live ICAR/IPM advisory integration
-- Soil health parameter analysis
-- Multilingual recommendation pipeline
+### Highlights
+
+- ~97.6% disease classification accuracy
+- Vision Transformer classifier
+- StreamRAG pipeline
+- ICAR/IPM knowledge retrieval
+- Soil health analysis
+- Multilingual recommendations
 
 ### Tech Stack
-Python • Streamlit • Vision Transformers • RAG • LangChain
 
-## Technical Walkthrough
-This walkthrough demonstrates the Vision Transformer classification pipeline, StreamRAG integration, ICAR advisory retrieval, and multilingual recommendation workflow.
-- Full Project Demonstration:
+- Python
+- Streamlit
+- Vision Transformers
+- LangChain
+- RAG
+
+🎥 **Project Demo**
+
 https://www.youtube.com/watch?v=9vGi0UVQd_o
 
 ---
 
-# 🔬 Research Interests
+# 🛡️ Current Research
 
-- Applied AI Systems
-- LLM Security
-- Explainable AI
-- Agentic AI
+Currently working on intelligent AI systems focusing on:
+
+- LLM Guardrails
+- Prompt Injection Detection
+- Trust-aware AI Models
+- Secure Retrieval Pipelines
 - AI Safety
-- Computer Vision
-- Retrieval-Augmented Generation
+- Explainable AI
 
 ---
 
-# 📫 Connect With Me
+# 📈 Currently Learning
 
-- Email: kothasrijavali@gmail.com
-- GitHub: https://github.com/Srijavali
+- Agentic AI
+- LangGraph
+- MCP (Model Context Protocol)
+- Multi-Agent Systems
+- AI Evaluation Frameworks
+- Production LLM Engineering
+
+---
+
+# 📫 Let's Connect
+
+📧 Email
+
+kothasrijavali@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/sri-javali-kotha-b82619349
+
+💻 GitHub
+
+https://github.com/Srijavali
+
+🌐 Portfolio
+
+https://kotha-sri-javali-portfolio.vercel.app/
+
+---
+
+## 💡 Fun Fact
+
+I enjoy building AI systems that bridge research and production. Whether it's computer vision, LLMs, RAG pipelines, or AI safety, I'm always exploring how intelligent systems can create real-world impact.
