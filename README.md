@@ -4,219 +4,267 @@
 
 ### Software Engineer • AI/ML Researcher • AI Systems Builder
 
-<p>
-  I build software that sits at the intersection of
-  <b>full-stack engineering</b>, <b>AI/ML</b>, and <b>research</b>.
-</p>
+I build software at the intersection of **Full-Stack Engineering, AI/ML, and Research**.
 
 <p>
-  <a href="https://www.linkedin.com/in/sri-javali-kotha-b82619349">LinkedIn</a> •
-  <a href="https://github.com/Srijavali">GitHub</a> •
-  <a href="https://kotha-sri-javali-portfolio.vercel.app/">Portfolio</a>
+<a href="https://www.linkedin.com/in/sri-javali-kotha-b82619349">LinkedIn</a> •
+<a href="https://github.com/Srijavali">GitHub</a> •
+<a href="https://kotha-sri-javali-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 </div>
 
 ---
 
-## 🧭 Who I Am
+## 🧭 About Me
 
-I'm a Computer Science Engineering student and **Research Intern at IIIT Hyderabad** who enjoys taking problems from:
+I'm a Computer Science Engineering student and **Research Intern at IIIT Hyderabad** who enjoys taking problems through the complete journey:
 
-**idea → research → architecture → implementation → evaluation → deployment**
+**Research → Reasoning → Architecture → Implementation → Evaluation → Deployment**
 
-My work spans three connected areas:
+I work across three connected areas:
 
 ### 💻 Software Engineering
 
-I build practical applications and backend systems using **JavaScript/TypeScript, React, Next.js, Node.js, Express.js, Python, FastAPI, REST APIs, PostgreSQL, MongoDB, WebSockets, and Git**.
+I build practical software systems using:
 
-I'm especially interested in understanding how the layers of a system fit together — from a frontend interaction and API contract to authentication, backend services, databases, asynchronous processing, testing, and deployment.
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express.js`  
+`Python` `FastAPI` `REST APIs` `PostgreSQL` `MongoDB` `WebSockets` `Git`
+
+I'm particularly interested in understanding how the different layers of an application work together — from a frontend interaction and API contract to authentication, backend services, databases, asynchronous workflows, testing, and deployment.
 
 ### 🤖 AI / ML Engineering
 
-I build AI systems around **Computer Vision, Vision Transformers, YOLO, LLMs, RAG, agentic workflows, OCR, semantic search, and AI evaluation**.
+I build AI systems involving:
 
-I care about more than getting a model to work once. I focus on **data quality, evaluation, reliability, latency, cost, grounding, and how the model behaves inside the larger software system**.
+`Computer Vision` `Vision Transformers` `YOLO` `LLMs` `RAG`  
+`Agentic AI` `OCR` `Vector Databases` `Semantic Search` `AI Evaluation`
+
+I don't just focus on getting a model to produce an output.
+
+I care about:
+
+- Data quality
+- Model evaluation
+- Grounding
+- Reliability
+- Latency
+- Cost
+- Robustness
+- Explainability
+- How the model behaves inside the larger software system
 
 ### 🔬 Research
 
-I approach engineering decisions with a research mindset.
+I approach difficult engineering problems with a **research mindset**.
 
-When a problem does not have an obvious solution, I don't want to jump to the first implementation. I investigate the alternatives, understand the constraints, test assumptions, compare trade-offs, and then choose an approach that I can justify.
+When a solution isn't obvious, I don't like jumping directly to the first implementation.
 
-That mindset has shaped my work in:
+I investigate:
 
-- LLM security and guardrails
-- Prompt injection and retrieval-level attacks
-- Trust-aware AI systems
-- RAG reliability and grounding
-- Computer Vision
-- AI-assisted education
-- Intelligent agricultural advisory systems
+- What are the actual constraints?
+- What assumptions are we making?
+- What alternatives exist?
+- What are the trade-offs?
+- What can fail?
+- What evidence supports each approach?
+- How will the decision affect reliability, cost, latency, and maintainability?
+
+Then I build and evaluate the solution.
+
+That mindset has shaped my work in **Computer Vision, LLM Security, RAG, Trustworthy AI, AI-assisted education, and intelligent agricultural systems**.
 
 ---
 
 # 🚀 What I Build
 
 ```text
-                SOFTWARE ENGINEERING
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-      Frontend       Backend        Data
-        │              │              │
- React / Next.js   Node / FastAPI   PostgreSQL
- TypeScript        REST / WS        MongoDB
-                   Auth / APIs      Vector DBs
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                       ▼
-                AI / ML SYSTEMS
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-   Computer Vision    LLMs           RAG
-   ViT / YOLO        Agents       Retrieval
-   MediaPipe         Tool Calls    Guardrails
-        │              │              │
-        └──────────────┼──────────────┘
-                       ▼
-                RESEARCH & EVALUATION
-
-
-
-
+                         SOFTWARE ENGINEERING
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+              Frontend          Backend           Data
+                 │                │                │
+          React / Next.js    Node / FastAPI    PostgreSQL
+          TypeScript         REST / WebSockets  MongoDB
+                             Auth / APIs        Vector DBs
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  │
+                                  ▼
+                             AI / ML SYSTEMS
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+           Computer Vision       LLMs             RAG
+            ViT / YOLO          Agents          Retrieval
+            MediaPipe          Tool Calling     Guardrails
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  │
+                                  ▼
+                         RESEARCH & EVALUATION
+```
 🛠️ Tech Stack
 Languages
 
 Python Java JavaScript TypeScript C SQL
 
-Software & Web Engineering
+Frontend & Web
 
-React Next.js Node.js Express.js FastAPI REST APIs WebSockets
+React Next.js HTML CSS Tailwind CSS
 
-HTML CSS Git GitHub Postman
+Backend
 
-Databases & Data
+Node.js Express.js FastAPI REST APIs WebSockets
+
+Databases
 
 PostgreSQL MongoDB ChromaDB FAISS
-
-CRUD Data Modeling Indexing Semantic Search
 
 AI / ML
 
 PyTorch TensorFlow Hugging Face Transformers
 
-Vision Transformers YOLO CNNs Computer Vision
+Vision Transformers YOLO CNNs Computer Vision NLP
 
-NLP LLMs RAG Vector Embeddings
+LLMs RAG Vector Embeddings Semantic Search
 
-AI Systems & Research
+AI Systems
 
-Agentic AI Tool Calling Prompt Engineering
+Agentic AI LLM Tool Calling Prompt Engineering
 
 Context Engineering AI Guardrails Trust Scoring
 
 LLM Evaluation Retrieval Pipelines AI Safety
 
-Engineering Practices
+Engineering
 
-Unit Testing Integration Testing Debugging
+Git GitHub Postman Unit Testing Integration Testing
 
-API Testing Code Reviews Pull Requests
+Debugging API Testing Code Reviews Pull Requests
 
-Modular Architecture Background Processing Queues Retries Idempotency
+Background Jobs Queues Retries Idempotency
 
 💼 Current Experience
 PM Accelerator — Full Stack (AI/ML) Developer Intern
-Frontend Lead • MatchBook
+One of the Frontend Leads • MatchBook
 
 I'm currently one of the frontend leads building MatchBook from scratch.
 
 My work includes:
 
-Building application workflows with Next.js and TypeScript
+Building application workflows using Next.js and TypeScript
 Developing Buyer Onboarding, Buyer Profile, and Seller Profile
 Designing reusable frontend components and application flows
 Connecting frontend workflows with backend services through API wiring
 Working with Supabase for authentication, sessions, and frontend data workflows
-Mapping frontend data to backend contracts and handling request/response flows
+Mapping frontend data to backend contracts
+Handling request/response flows between application layers
 Debugging TypeScript, API integration, authentication, environment, and integration issues
 Collaborating through Git branches, commits, pull requests, and code reviews
 
-This experience has strengthened how I think about real software systems, not just isolated features.
+This experience has strengthened how I think about real software systems rather than isolated features.
 
 🔬 Research Experience
 Research Intern — IIIT Hyderabad
 
-My research work has involved Computer Vision, deep learning, model evaluation, and real-world deployment constraints.
+My research work has involved Computer Vision, Deep Learning, model evaluation, and real-world deployment constraints.
 
-I have worked on:
-
+Areas of Work
 YOLO-based object detection
 Vision Transformer pipelines
-Real-world datasets and preprocessing
-Robustness under occlusions and density variations
+Real-world dataset preprocessing
+Model evaluation
+Robustness under occlusion and varying crowd density
 Accuracy vs. latency trade-offs
 Reliability considerations for safety-oriented systems
-Current Research
+🛡️ Current Research — LLM Security & Trustworthy AI
 
-I'm also working on LLM Security, RAG Security, and Trustworthy AI.
+I'm currently exploring security and reliability problems in LLM and RAG systems.
 
-The work explores:
-
+Research Areas
 Prompt injection detection
 Retrieval-level attacks
-Sensitive-information disclosure
-Trust scoring
+Sensitive information disclosure
 Retrieval risk assessment
+Trust scoring
 Policy enforcement
 Model-agnostic guardrails
 Explainable security decisions
 LoRA-based lightweight adaptation
+Secure retrieval pipelines
 
-My goal is to understand not only whether an AI system produces an answer, but whether the system should trust, retrieve, generate, or expose that answer in the first place.
+My goal is to understand not only:
+
+"Can the AI generate an answer?"
+
+but also:
+
+"Should the system trust this request, retrieve this information, or generate this answer in the first place?"
 
 🌟 Work I'm Proud Of
 🧠 JoyVerse — AI-Powered Cognitive Learning Platform
 
-JoyVerse is one of the projects I'm most proud of because it required combining product thinking, full-stack engineering, computer vision, and AI into one system.
+JoyVerse is one of the projects I'm most proud of because it required combining full-stack engineering, AI, Computer Vision, product thinking, and real-time interaction into one system.
 
-It is a gamified learning platform designed for children with dyslexia, with separate workflows for children, parents, therapists, and a super-admin.
+It is a gamified learning platform designed for children with dyslexia, with separate workflows for:
 
-What we built
-Child-facing interactive games
-Parent dashboard
-Therapist dashboard
-Super-admin dashboard
-Behavioral and performance analytics
-Real-time communication
-AI-assisted interaction
+Children
+Parents
+Therapists
+Super Admin
+🎮 Learning & Cognitive Activities
 
-The games were designed around different capabilities such as memory, word recognition, reflex-based interaction, and confidence-related activities.
+We designed five interactive games around different capabilities such as:
 
-Performance signals from these interactions could then be used to give therapists a more useful picture of how a child was engaging with the activities.
+Memory
+Word recognition
+Reflex-based interaction
+Confidence-related activities
+Other cognitive learning interactions
 
-AI + Privacy-Aware Interaction
+The system collects performance-related signals from these activities so that therapists can gain a better understanding of how a child interacts with the learning environment.
 
-We used:
+👁️ AI & Computer Vision
+
+We incorporated:
 
 Vision Transformers
 MediaPipe Face Mesh
 Facial landmark extraction
-Real-time interaction pipelines
+Expression-related interaction
+Real-time AI workflows
 
 MediaPipe was used to extract facial landmarks and derive expression-related signals that could influence the game's animations and interaction.
 
-The interesting part for me was not using AI for the sake of AI. It was figuring out how AI, frontend interaction, backend services, and reporting could work together as one coherent product.
+The interesting part wasn't simply using AI.
 
-Stack
+The challenge was connecting:
 
-React Node.js Express.js MongoDB WebSockets OAuth Vision Transformers MediaPipe
+Child Interaction → Frontend → AI/CV → Backend → Analytics → Therapist Dashboard
+
+into one coherent system.
+
+🧑‍⚕️ Dashboards
+
+We developed:
+
+Parent Dashboard
+Therapist Dashboard
+Super Admin Dashboard
+
+The therapist-facing workflow was designed to provide useful performance information derived from the child's interactions with the games.
+
+🛠️ Tech Stack
+
+React Node.js Express.js MongoDB
+
+WebSockets OAuth Vision Transformers MediaPipe
 
 🎥 Project Demo
+
+https://www.youtube.com/watch?v=ffRGONYetUM
 
 🌿 Plant Disease Detection & Advisory System
 
@@ -225,26 +273,51 @@ An end-to-end AI system combining Computer Vision + RAG + external data sources 
 Highlights
 ~97.6% disease classification accuracy
 Vision Transformer classifier
-FastAPI services
+FastAPI backend
 RAG-based knowledge retrieval
 OCR pipelines
 Weather API integration
 Government-source knowledge synchronization
 Multilingual advisory workflows
+🔬 Research-Driven Engineering Decision
 
-One of the most interesting engineering decisions involved keeping the advisory layer grounded in retrieved knowledge rather than introducing another generative model unnecessarily.
+One of the most challenging parts was keeping agricultural precautions dynamic and grounded in trusted sources.
 
-When the trusted source published updated precaution documents without providing a public API, I explored several alternatives — including webhooks, API access, polling, RSS-based change detection, and content hashing — and designed a mechanism to synchronize updated knowledge into the retrieval pipeline while balancing freshness, latency, reliability, and system complexity.
+Instead of immediately introducing another generative model to produce precautions, I investigated whether the existing retrieval architecture could be made dynamic.
 
-That experience reinforced one of the principles I care about most:
+I explored several approaches, including:
 
-Good engineering is not choosing the most sophisticated solution. It is choosing the solution you can justify under the real constraints of the system.
+API access
+Webhooks
+Polling
+RSS feeds
+Content hashing
+Change detection
+Different synchronization strategies
 
-Stack
+The external government source did not provide an official API, and its update timing was not deterministic.
 
-Python FastAPI Streamlit Vision Transformers RAG LangChain ChromaDB OCR Weather APIs RSS
+I eventually designed a synchronization approach using RSS-based change detection, scheduled polling, and content hashing to detect updated documents and synchronize the new information into the retrieval pipeline.
+
+The decision required balancing:
+
+Freshness + Reliability + Latency + Cost + Maintainability
+
+This project reinforced one of the principles I care about most:
+
+Good engineering is not always choosing the most sophisticated solution. It is choosing the solution you can justify under the real constraints of the system.
+
+🛠️ Tech Stack
+
+Python FastAPI Streamlit
+
+Vision Transformers RAG LangChain
+
+ChromaDB OCR Weather APIs RSS
 
 🎥 Project Demo
+
+https://www.youtube.com/watch?v=9vGi0UVQd_o
 
 🤖 Atlas AI — Agentic Financial Intelligence Assistant
 
@@ -256,96 +329,167 @@ LLM tool calling
 PostgreSQL-backed state
 Scheduling
 Background processing
-Queueing and retries
+Queueing
+Retry mechanisms
 Idempotent workflows
 Multimodal preprocessing
 149 automated tests
-Stack
+Engineering Focus
 
-Python FastAPI PostgreSQL Pytest LLM Tool Calling Telegram
+The system was designed around modular services, reliability, asynchronous workflows, and persistent application state rather than being just an LLM wrapper.
 
-🛡️ LLM Security & Trustworthy AI
-Current Research Direction
-User Query
-    ↓
-Intent Analysis
-    ↓
-Risk Detection
-    ↓
-Retrieval Risk Assessment
-    ↓
-Context / Sensitivity Analysis
-    ↓
-Trust Scoring
-    ↓
-Policy Enforcement
-    ↓
-Controlled Generation
+🛠️ Tech Stack
 
-I'm exploring architectures that combine:
+Python FastAPI PostgreSQL
 
-Deterministic rules
-Risk aggregation
-Model-based reasoning
-Retrieval governance
-Trust scoring
-Explainable decisions
+Pytest LLM Tool Calling Telegram
 
-The focus is to make AI systems more reliable, interpretable, and resistant to adversarial behavior.
+🧠 How I Think About Engineering
 
-🧪 How I Think About Engineering
-
-I tend to ask questions before I commit to an implementation:
+I tend to ask questions before committing to an implementation.
 
 What is actually causing the problem?
 
+Not just:
+
+"What error am I seeing?"
+
+But:
+
+"Where in the system does the assumption break?"
+
 What assumptions are we making?
 
-Can the current architecture solve it without adding another component?
+I try to identify whether the problem comes from:
 
-What happens to latency, cost, reliability, and maintainability?
+Data
+Architecture
+API contracts
+External dependencies
+Model behavior
+Frontend state
+Backend logic
+Can the current architecture solve it?
 
-What happens when an external dependency changes?
+Before adding another service, model, database, or dependency, I ask:
 
-How do we validate that the solution actually works?
+Can the existing architecture solve this problem if we change how we use it?
 
-What evidence would make me change my decision?
+What are the trade-offs?
 
-This is probably the part of engineering I enjoy most — understanding the system deeply enough to make a decision I can defend.
+I think about:
 
+Accuracy vs. latency
+
+Reliability vs. complexity
+
+Freshness vs. infrastructure cost
+
+Model capability vs. hallucination risk
+
+Development speed vs. maintainability
+
+What evidence would change my decision?
+
+This is probably the part of engineering I enjoy most:
+
+Understanding a system deeply enough to make a decision I can defend — and being willing to change that decision when the evidence changes.
+
+🧪 My Engineering Mindset
+Problem
+   ↓
+Understand the System
+   ↓
+Identify Constraints
+   ↓
+Question Assumptions
+   ↓
+Research Alternatives
+   ↓
+Compare Trade-offs
+   ↓
+Choose an Architecture
+   ↓
+Implement
+   ↓
+Test
+   ↓
+Evaluate
+   ↓
+Iterate
+
+I enjoy the part between "we have a problem" and "we know what the right solution should be."
+
+🌱 Open Source
+
+I've contributed to codeforces-contest-scraper.
+
+Contributions
+Merged pull requests
+Improved contributor documentation
+Improved onboarding experience
+Added unit tests
+Fixed bugs
+Collaborated through Git and pull requests
+Incorporated maintainer feedback
 📈 Currently Exploring
 
-Agentic AI LangGraph MCP
+Agentic AI
 
-Multi-Agent Systems AI Evaluation
+LangGraph
+
+MCP
+
+Multi-Agent Systems
+
+AI Evaluation
 
 Production LLM Engineering
 
-LLM Security RAG Reliability
+LLM Security
 
-🌱 Open Source
-Merged pull requests into codeforces-contest-scraper
-Improved contributor documentation and onboarding
-Added unit tests and bug fixes
-Collaborated through Git, pull requests, and code reviews
+RAG Reliability
+
+Trustworthy AI
+
+🎯 What I Want to Build
+
+I'm interested in building systems where software engineering and AI research reinforce each other.
+
+I want to work on problems involving:
+
+Intelligent software systems
+AI-powered products
+Agentic workflows
+Computer Vision
+LLM applications
+Secure and trustworthy AI
+Retrieval systems
+Backend infrastructure
+AI evaluation
+Production ML systems
+
+My long-term goal is to become an engineer who can move comfortably between:
+
+research → system design → implementation → experimentation → production
+
 📫 Let's Connect
-
-Email
+📧 Email
 
 kothasrijavali@gmail.com
 
-LinkedIn
+💼 LinkedIn
 
-linkedin.com/in/sri-javali-kotha-b82619349
+https://linkedin.com/in/sri-javali-kotha-b82619349
 
-GitHub
+💻 GitHub
 
-github.com/Srijavali
+https://github.com/Srijavali
 
-Portfolio
+🌐 Portfolio
 
-kotha-sri-javali-portfolio.vercel.app
+https://kotha-sri-javali-portfolio.vercel.app/
 
 <div align="center">
-Building software. Researching deeply. Making AI useful.
+Building Software. Researching Deeply. Making AI Useful.
 </div> ```
